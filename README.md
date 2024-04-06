@@ -5,6 +5,7 @@ Yet another place being used as blog
 
 * [外国政客为什么比较单调枯燥?](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/1)
 * [这篇有关信仰与宣誓的内容让我被斗鱼鱼吧禁言了](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/2)
+* [继续分享我见过的做局害人手法:伪善屠户与替罪羊](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/4)
 * [How to disable IMAP and POP3 of Microsoft/outlook account](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/5)
 
 # License 
