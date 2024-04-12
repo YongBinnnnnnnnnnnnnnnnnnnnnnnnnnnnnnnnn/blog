@@ -10,6 +10,7 @@ Yet another place being used as blog
 * [如何避免被人当枪使,减少因为谣言和断章取义造成的误会](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/8)
 * [瑞士过高的进口税](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/9)
 * [不正常的遭遇,短暂失去了意识](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/10)
+* [分享遭遇的操控手法:[损害赔偿]和[驯化人类]](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/11)
 
 # License 
 [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
