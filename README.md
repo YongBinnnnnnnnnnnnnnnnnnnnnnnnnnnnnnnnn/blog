@@ -12,6 +12,7 @@ Yet another place being used as blog
 * [不正常的遭遇,短暂失去了意识](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/10)
 * [分享遭遇的操控手法:[损害赔偿]和[驯化人类]](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/11)
 * [多种迹象指向有人在乱动我的东西以及小道消息](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/14)
+* [分享我遭遇过的偷窃,跟踪,偷拍,骚扰方式](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/15)
 
 # License 
 [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
