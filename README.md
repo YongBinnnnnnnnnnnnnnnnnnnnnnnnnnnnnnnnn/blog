@@ -14,6 +14,8 @@ Yet another place being used as blog
 * [多种迹象指向有人在乱动我的东西以及小道消息](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/14)
 * [分享我遭遇过的偷窃,跟踪,偷拍,骚扰方式](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/15)
 * [新世界秩序 (NWO), 许愿机制, 降维打击二向箔](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/16)
+* [斗贼笔记, 留学生竟在瑞士公立大学教室内被团伙偷采精液](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/17)
+
 
 # License 
 [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
