@@ -15,6 +15,7 @@ Yet another place being used as blog
 * [分享我遭遇过的偷窃,跟踪,偷拍,骚扰方式](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/15)
 * [新世界秩序 (NWO), 许愿机制, 降维打击二向箔](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/16)
 * [斗贼笔记, 留学生竟在瑞士公立大学教室内被团伙偷采精液](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/17)
+* [公开部分我与学校沟通的邮件](article/公开部分我与学校沟通的邮件.md)
 
 
 # License 
