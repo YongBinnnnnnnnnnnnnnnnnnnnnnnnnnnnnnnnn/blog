@@ -16,6 +16,8 @@ Yet another place being used as blog
 * [新世界秩序 (NWO), 许愿机制, 降维打击二向箔](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/16)
 * [斗贼笔记, 留学生竟在瑞士公立大学教室内被团伙偷采精液](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/17)
 * [公开我在瑞士的一些邮件](article/公开我在瑞士的一些邮件.md)
+* [最近发现高通安卓手机的一些高端玩法](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/22)
+* [一些自毁装置的设想 / The ideas to implement a self-destruction device](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/24)
 
 
 # License 
