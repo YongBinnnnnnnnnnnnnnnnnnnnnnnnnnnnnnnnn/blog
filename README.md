@@ -19,6 +19,8 @@ Yet another place being used as blog
 * [最近发现高通安卓手机的一些高端玩法](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/22)
 * [一些自毁装置的设想 / The ideas to implement a self-destruction device](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/24)
 * [准备从GitHub迁移到Codeberg](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/27)
+* [计划有变，迁移到codeberg暂停](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/28)
+* [纪委的自身监督，真的够用吗？【此文让我在斗鱼又被禁言了】](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/29)
 
 
 # License 
