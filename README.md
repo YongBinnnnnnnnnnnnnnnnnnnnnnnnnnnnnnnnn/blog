@@ -22,6 +22,7 @@ Yet another place being used as blog
 * [计划有变，迁移到codeberg暂停](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/28)
 * [纪委的自身监督，真的够用吗？【此文让我在斗鱼又被禁言了】](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/issues/29)
 * [有关我证件照片的使用的公开声明，Public Statement Regarding the Use of My Identification Photo，Dichiarazione Pubblica riguardo all'Utilizzo della Mia Foto di Identificazione](/有关我证件照片的使用的公开声明，Public%20Statement%20Regarding%20the%20Use%20of%20My%20Identification%20Photo，Dichiarazione%20Pubblica%20riguardo%20all'Utilizzo%20della%20Mia%20Foto%20di%20Identificazione)
+* [关于贼人的新发现](/关于贼人的新发现)
 
 # License 
 [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
