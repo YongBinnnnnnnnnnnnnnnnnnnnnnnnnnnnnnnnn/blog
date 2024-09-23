@@ -39,3 +39,87 @@
 
 同时晚上睡觉的录像显示手机慢慢滑落导致录像出现了一小段看不见的情况，这个表面上的意外很可能并不是意外而是闯入者把手机故意放倒的，因为手机不倒下他们篡改录像画面后很难准确把手机放回原位。所以干脆就让手机倒下再篡改画面做个手机慢慢滑落的假象。同时今天起床后发现iphone 6s有被人拆开过的痕迹，但是晚上的录像却显示什么都没发生，这让我想报警也有些难办。
 
+# 2024年9月23日
+AI写代码不太行，有些细节把握不好，还制造很多bug，不过我看好它的前景，只是现阶段还无法取代程序员
+
+我给AI的提示：
+
+```
+帮我写powershell脚本，启动chrome.exe后读取其内存，找到内存中的google.com字符串并改写内存数据替换google.com为ybnxdomain。不要用psexec，用windows api，readprocessmemory和writeprocessmemory，启动进程用createprocessex
+```
+
+AI的结果：
+
+``` powershell
+# 加载必要的库
+Add-Type -AssemblyName System.Windows.Forms
+Add-Type -TypeDefinition @"
+using System;
+using System.Runtime.InteropServices;
+
+public class MemoryHelper
+{
+    [DllImport("kernel32")]
+    public static extern IntPtr OpenProcess(int dwDesiredAccess, bool bInheritHandle, int dwProcessId);
+
+    [DllImport("kernel32")]
+    public static extern bool CloseHandle(IntPtr hObject);
+
+    [DllImport("kernel32")]
+    public static extern bool ReadProcessMemory(IntPtr hProcess, IntPtr lpBaseAddress, out byte[] lpBuffer, int nSize, out int lpNumberOfBytesRead);
+
+    [DllImport("kernel32")]
+    public static extern bool WriteProcessMemory(IntPtr hProcess, IntPtr lpBaseAddress, byte[] lpBuffer, int nSize, out int lpNumberOfBytesWritten);
+}
+"@
+
+# 定义 Chrome.exe 的路径
+$chromePath = "C:\Program Files\Google\Chrome\Application\chrome.exe"
+
+# 启动 Chrome.exe
+$processId = Start-Process -FilePath $chromePath -PassThru
+
+# 等待 Chrome.exe 加载完成
+Start-Sleep -s 5
+
+# 查找 Chrome.exe 的进程句柄
+$handle = [MemoryHelper]::OpenProcess(0x001F0FFF, $false, $processId.Id)
+
+if ($handle -ne 0) {
+    # 定义要查找的字符串
+    $targetString = "google.com"
+
+    # 定义替换的字符串
+    $replaceString = "ybnxdomain"
+
+    # 分配内存缓冲区
+    $bufferSize = $targetString.Length * 2
+    $buffer = New-Object byte[]($bufferSize)
+    [Runtime.InteropServices.Marshal]::Copy([Text.Encoding]::Unicode.GetBytes($targetString), 0, $buffer, 0)
+
+    # 查找内存中的字符串
+    for ($offset = 0; $offset -lt (Get-WmiObject -Class Win32_Process -Filter "ProcessID=$processId.Id" | Select-Object -ExpandProperty VirtualSize)) {
+        if ([MemoryHelper]::ReadProcessMemory($handle, [IntPtr]$offset, out $buffer, $targetString.Length * 2, [ref]$null)) {
+            $stringFound = [Text.Encoding]::Unicode.GetString($buffer)
+            if ($stringFound -eq $targetString) {
+                # 替换内存中的字符串
+                [MemoryHelper]::WriteProcessMemory($handle, [IntPtr]$offset, $([Text.Encoding]::Unicode.GetBytes($replaceString)), $replaceString.Length * 2, [ref]$null)
+                Write-Host "已替换内存中的字符串：$targetString -> $replaceString"
+            }
+        } else {
+            break
+        }
+        $offset += $targetString.Length * 2
+    }
+
+    # 关闭进程句柄
+    if ([MemoryHelper]::CloseHandle($handle)) {
+        Write-Host "已关闭进程句柄"
+    } else {
+        Write-Host "无法关闭进程句柄"
+    }
+} else {
+    Write-Host "无法打开进程句柄"
+}
+```
+
