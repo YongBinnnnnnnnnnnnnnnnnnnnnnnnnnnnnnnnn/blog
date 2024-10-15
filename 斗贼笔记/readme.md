@@ -137,3 +137,12 @@ if ($handle -ne 0) {
 
 关于技术方面，我在上周六移除了电脑自带的SSD，但是发现装到硬盘盒里后无法启动了。我后来尝试了多种途径解决这个问题，包括在windows下让qemu打开\\.\Device\Harddisk0\DR0但是，qemu在这方面兼容做的不好。后来我又尝试了一下在windows 10上用过的技巧，在linux下通过虚拟机让安装程序以为正在安装到固定硬盘，但可惜的是windows 11在我的虚拟机上无法启动，可能是微软增加了相关检测。我想可能我接下来会更多用Linux的live环境了，因为我基于HBCD改的PE系统无法安装打印机的驱动程序，或许更闲下来会尝试搞个全功能的windows live dvd。
 
+我的pinephone pro出现了奇怪的问题，小道消息说是手机上安装了恶意硬件通过uart让攻击者访问控制台。
+
+所以我上周在刷系统的时候做了如下处理：
+
+```shell
+gzip -d -c mobian-pinephonepro-phosh-12.0.img.gz | sed "s|ttyS2|wyee0|g"|sudo dd of=/dev/sdb bs=4M status=progres
+````
+
+但是哪怕是通过这样的手段移除有关ttyS2的配置，我的PinePhone Pro的init进程仍然在为了ttyS2启动agetty，这让人费解。
