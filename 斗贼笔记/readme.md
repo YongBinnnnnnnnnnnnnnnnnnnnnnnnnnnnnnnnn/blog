@@ -170,3 +170,12 @@ gzip -d -c mobian-pinephonepro-phosh-12.0.img.gz | sed "s|ttyS2|wyee0|g"|sudo dd
 至于说如何揪出这种恶意硬件，已经有人给我指了一条路，那就是TinySA Ultra。考虑到这个东西有点敏感,尤其我又是身处他国，我想在购买之前先消除不必要的误会和隐患，所以我已经多次发邮件询问瑞士当地管理部门是否允许我购买使用这个设备，但是一直没有得到任何回复。可惜，如果我有了这个设备，应该能揪出那个恶意硬件。
 
 他们这样得手，是否是我技术不行呢？不是。因为所有的安全举措都是有假设的前提条件的，比如说一个大学可能会雇用一些保安实施一些安全防范措施，这些措施大多数是针对社会一般人员的，比如说有人可能来偷学校里的东西或者有人可能会在学校里打架，但是这些安全措施如果遇到美军用轰炸机和坦克来攻打校园了或者遇到解放军用洲际导弹来炸学校了，那这些措施和没有安全措施是差不多的。这并不是学校的安全措施不行或者安保人员的技术水平不够，而是从威胁模型和现实不匹配。我的信息安全技术和相关安全措施的假设条件是对方无法物理接触我的设备，而这个犯罪团伙应该是物理方式接触到了我的设备，所以这不是我的技术不行，而是我学习研究的是信息安全技术而对方使用的是开锁技术和偷窃技巧。对方不是很厉害的黑客，而是团伙作案，是使用队友给他的恶意软件安装程序的，很有经验的贼。
+
+# 2024年10月21日
+
+制作新项目的过程中，我仍然是持续遭到攻击，这次的现象我拍照录像了:
+![img](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/i_am_hacked/blob/6f615f1baf8c8ce32d03ebd246f00b15981ced35/photos/2024-10-21%20bios_shim_SBAT_failure.JPG)
+
+[录像文件地址](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/i_am_hacked/raw/6f615f1baf8c8ce32d03ebd246f00b15981ced35/recordings/2024-10-21%20unable_to_save_cursed_project_iso_file.mp4),录像中我无法把iso复制到u盘里，总是在写入快要完成时u盘设备莫名出错。我复制了好几次都是这样的结果。
+
+可以推测,有时候我项目中提交的代码会莫名其妙的多出来一些[低级失误](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/cursed_live_dvd/commit/cc82bb2d51b4b0940d0625b7385642ac17d1636b)可能不是我粗心大意，而是被人暗中使坏了。
