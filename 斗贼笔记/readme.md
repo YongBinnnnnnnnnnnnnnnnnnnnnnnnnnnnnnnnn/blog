@@ -187,4 +187,5 @@ gzip -d -c mobian-pinephonepro-phosh-12.0.img.gz | sed "s|ttyS2|wyee0|g"|sudo dd
 
 可以推测,有时候我项目中提交的代码会莫名其妙的多出来一些[低级失误](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/cursed_live_dvd/commit/cc82bb2d51b4b0940d0625b7385642ac17d1636b)可能不是我粗心大意，而是被人暗中使坏了。
 
-我的生活总是种在别人看不见的地方出现的阻碍，拖慢我的速度、浪费我的时间、消耗我的精力。
+我的生活总是像这样在别人看不见的地方出现的阻碍，拖慢我的速度、浪费我的时间、消耗我的精力。如果有人正在通过邮件联系我，他们只会感到我回复邮件很慢，好像对他们的事不够重视，但是他们并不知道我为了能够正常启动电脑都花费了很多时间。
+
