@@ -199,3 +199,6 @@ gzip -d -c mobian-pinephonepro-phosh-12.0.img.gz | sed "s|ttyS2|wyee0|g"|sudo dd
 你们所谓的决斗和对决只敢在我没有办法反抗的情况下动手，因为你们怕，你们知道平等对决你们会输。就好像人们为了抓住一只瓢虫就敢于直接上手，也不会多余的戴上什么防具。而如果人想要摸到一只能够杀死他们的野兽的时候，就只能先使用麻醉枪让它反抗不了之后再做足了防护才能下手。这两者之间的差距就是怕与不怕的差距，就是对手在你心中的危险程度的差距。所以，不用假装你们不怕我了，我已经看穿了。
 
 紧跟着是另一个曾经的有钱象征的实际精神病和他一起配合打算连这个GitHub帐号一起给我坑了。连锁攻击配合的不错，但是仍然改变不了你们在我心中假装勇敢的懦夫形象。
+
+# 2024年10月24日
+163 mailbox is not so trustworthy. I have encountered many times that after receiving the notifications of new email, find nothing in the inbox. Should have listened 315.
