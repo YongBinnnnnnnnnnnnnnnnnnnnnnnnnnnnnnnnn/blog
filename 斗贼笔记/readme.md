@@ -204,4 +204,4 @@ gzip -d -c mobian-pinephonepro-phosh-12.0.img.gz | sed "s|ttyS2|wyee0|g"|sudo dd
 163 mailbox is not so trustworthy. I have encountered many times that after receiving the notifications of new email, find nothing in the inbox. Should have listened 315.
 
 # 2024年10月28日
-对方向我展示了在我电脑不插电源也不联网的情况下远程影响linux系统行为的能力。这再次印证了之前的"无线通信恶意硬件"的猜测。这也同时说明了一点，我在没联网的情况下些的代码也可能被抄走了。这就等于我可能会比我的抄袭者更晚提交代码，真行阿这些人。
+对方向我展示了在我电脑不插电源也不联网的情况下远程影响linux系统行为的能力。这再次印证了之前的"无线通信恶意硬件"的猜测。这也同时说明了一点，我在没联网的情况下写的代码也可能被抄走了。这就等于我可能会比我的抄袭者更晚提交代码，真行阿这些人。
