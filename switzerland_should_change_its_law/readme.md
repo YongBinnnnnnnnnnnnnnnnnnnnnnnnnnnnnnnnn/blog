@@ -1,0 +1,5 @@
+# Switzerland should change its law
+
+I thought that the reason that I am involved in a lawsuit should be a proper reason to stay in Switzerland. However, after consulting to a professional lawyer, the answer is no. 
+
+This makes many foreigners in Switzerland to be much more volunerable to any kind of crimes than it should be, because even if you have all the evidences, and everything proves that you are right. There will be an extremely long process of finishing the legal procdure. However, unfortunately, you cannot legally stay in Switzerland because of you are trying to protect your right.
