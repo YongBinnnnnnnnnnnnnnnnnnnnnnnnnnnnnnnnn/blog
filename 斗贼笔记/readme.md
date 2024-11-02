@@ -230,6 +230,6 @@ gzip -d -c mobian-pinephonepro-phosh-12.0.img.gz | sed "s|ttyS2|wyee0|g"|sudo dd
 
 ![gomo](https://github.com/YongBinnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn/blog/blob/main/%E6%96%97%E8%B4%BC%E7%AC%94%E8%AE%B0/2024-11-01%20gomo.png?raw=true)
 
-至少在目前[这个博客](https://thepoorswiss.com/best-phone-plan-switzerland/)还能看到以前的价格是近似13瑞郎每月，而且我记得很清楚我在10月份看的时候是没有
+至少在目前[这个博客](https://thepoorswiss.com/best-phone-plan-switzerland/)还能看到以前的价格是近似13瑞郎每月，而且我记得很清楚我在10月份看的时候是没有咨询费用的。
 
 当然很难说是针对我，因为他影响所有人，但是这些事情却总是在我最需要的时候转变成为了对我不利的方向，而等我不再需要时事情又回复了常态。
