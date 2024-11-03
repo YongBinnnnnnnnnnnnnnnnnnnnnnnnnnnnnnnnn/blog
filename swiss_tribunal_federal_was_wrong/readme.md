@@ -3,4 +3,19 @@ Swiss federal tribunal was wrong and I do not even need to read the Swiss law ag
 
 The sad truth is that they are indeed unchallengeable inside of Switzerland legal system. However, as an old saying goes from China, "公道自在人心", "justice lies in the hearts of men and women", I would like to chellange them on the public place named internet.
 
+# Context
+
+ * My appeal sent to Federal Tribunal: [against_court_response_1 - public.pdf](./against_court_response_1 - public.pdf)
+ * Federal Tribunal's final decision: http://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F16-10-2024-2C_479-2024&lang=de&type=show_document
+
+# Drift
+
+At the first glance, there are two problems.
+
+First, they received two documents without signature 
+> Con scritti datati 11 e 14 ottobre 2024, non firmati,
+However, I am clearly certain that I signed the document of Oct 14. Thus, there could be a crime involved in this case, because the documents sent from me to the court was altered by unkonwn person illegally.
+
+Second, the Federl court ignored some problems I pointed out about Ticino court's dercision.
+
 To be continued...
