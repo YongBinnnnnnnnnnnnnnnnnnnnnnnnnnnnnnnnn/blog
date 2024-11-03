@@ -14,8 +14,12 @@ At the first glance, there are two problems.
 
 First, they received two documents without signature 
 > Con scritti datati 11 e 14 ottobre 2024, non firmati,
+
 However, I am clearly certain that I signed the document of Oct 14. Thus, there could be a crime involved in this case, because the documents sent from me to the court was altered by unkonwn person illegally.
 
-Second, the Federl court ignored some problems I pointed out about Ticino court's dercision.
+Second, the Federal court ignored some problems I pointed out about Ticino court's dercision.
+
+
+Of course, without reading the swiss law again, I can point out some problems, and I am sure that my points will be accepted by most persion. However, I want my points to against this authority of Swiss law to be precise and could be supported by Swiss law itself. Thus, to finish this article, I will need to read some Swiss law, and it will take some time.
 
 To be continued...
