@@ -19,6 +19,13 @@ However, I am clearly certain that I signed the document of Oct 14. Thus, there 
 
 Second, the Federal court ignored some problems I pointed out about Ticino court's dercision. Especially I referred CPC (a Swiss law) to prove that Tribunale cantonale amministrativo (Administrative Court of Ticino) should ask me when they find my arguments are 'meaningless' but the Federal Court completely ignored my argument and mentioned nothing about it in their final decision.
 
-Of course, without reading the swiss law again, I can point out some problems, and I am sure that my points will be accepted by most persion. However, I want my points used to against this authority of Swiss law to be precise and could be supported by Swiss law itself. Thus, to finish this article, I will need to read some Swiss law, and it will take some time.
+-----
+
+I was appealing the court's decision and pointed out the problems of their decision. The court itself also said that they can only check whether their decision was correct, not the merit. However, in their conclusion, they rejected my appeal with one of the reason called “you have no chance to win”. So they actually evaluated the merits. They are contridicting themselves.. 
+
+-----
+
+
+Of course, without reading the swiss law again, I can point out some problems, and I am sure that my points will be accepted by most persion. However, I want my points used to against this authority of Swiss law to be precise and could be supported by Swiss law itself. Thus, to finish this article, I will need to read some Swiss law, and it will take some time. Do not take the draft section seriously because they are not formally included in this article.
 
 ### To be continued...
