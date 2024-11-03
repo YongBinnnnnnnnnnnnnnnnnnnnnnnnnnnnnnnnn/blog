@@ -20,6 +20,6 @@ However, I am clearly certain that I signed the document of Oct 14. Thus, there 
 Second, the Federal court ignored some problems I pointed out about Ticino court's dercision.
 
 
-Of course, without reading the swiss law again, I can point out some problems, and I am sure that my points will be accepted by most persion. However, I want my points to against this authority of Swiss law to be precise and could be supported by Swiss law itself. Thus, to finish this article, I will need to read some Swiss law, and it will take some time.
+Of course, without reading the swiss law again, I can point out some problems, and I am sure that my points will be accepted by most persion. However, I want my points used to against this authority of Swiss law to be precise and could be supported by Swiss law itself. Thus, to finish this article, I will need to read some Swiss law, and it will take some time.
 
 To be continued...
