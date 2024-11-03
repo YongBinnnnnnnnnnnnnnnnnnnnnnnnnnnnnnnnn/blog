@@ -8,7 +8,7 @@ The sad truth is that they are indeed unchallengeable inside of Switzerland lega
  * My appeal sent to Federal Tribunal: [against_court_response_1 - public.pdf](./against_court_response_1%20-%20public.pdf)
  * Federal Tribunal's final decision: http://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F16-10-2024-2C_479-2024&lang=de&type=show_document
 
-# Drift
+# Draft
 
 At the first glance, there are two problems.
 
@@ -17,9 +17,8 @@ First, they received two documents without signature
 
 However, I am clearly certain that I signed the document of Oct 14. Thus, there could be a crime involved in this case, because the documents sent from me to the court was altered by unkonwn person illegally.
 
-Second, the Federal court ignored some problems I pointed out about Ticino court's dercision.
-
+Second, the Federal court ignored some problems I pointed out about Ticino court's dercision. Especially I referred CPV to prove that Tribunale cantonale amministrativo (Administrative Court of Ticino) should ask me when they find my arguments are 'meaningless' but the Federal Court's decision completely ignored my argument and mentioned nothing about it in their final decision.
 
 Of course, without reading the swiss law again, I can point out some problems, and I am sure that my points will be accepted by most persion. However, I want my points used to against this authority of Swiss law to be precise and could be supported by Swiss law itself. Thus, to finish this article, I will need to read some Swiss law, and it will take some time.
 
-To be continued...
+### To be continued...
