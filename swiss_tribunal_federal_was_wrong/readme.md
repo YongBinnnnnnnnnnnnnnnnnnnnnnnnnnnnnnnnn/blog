@@ -5,7 +5,7 @@ The sad truth is that they are indeed unchallengeable inside of Switzerland lega
 
 # Context
 
- * My appeal sent to Federal Tribunal: [against_court_response_1 - public.pdf](./against_court_response_1 - public.pdf)
+ * My appeal sent to Federal Tribunal: [against_court_response_1 - public.pdf](./against_court_response_1%20-%20public.pdf)
  * Federal Tribunal's final decision: http://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F16-10-2024-2C_479-2024&lang=de&type=show_document
 
 # Drift
