@@ -21,7 +21,7 @@ Second, the Federal court ignored some problems I pointed out about Ticino court
 
 -----
 
-I was appealing the court's decision and pointed out the problems of their decision. The court itself also said that they can only check whether their decision was correct, not the merit. However, in their conclusion, they rejected my appeal with one of the reason called “you have no chance to win”. So they actually evaluated the merits. They are contridicting themselves.. 
+I was appealing the court's decision and pointed out the problems of their decision. The court itself also said that they can only check whether their decision was correct, not merits and demerits. However, in their conclusion, they rejected my appeal with one of the reason called “you have no chance to win”. So they actually evaluated more than the decision itself. They are contridicting themselves.. 
 
 -----
 
