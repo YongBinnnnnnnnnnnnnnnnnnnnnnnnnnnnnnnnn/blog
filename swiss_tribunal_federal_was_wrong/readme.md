@@ -25,6 +25,10 @@ I was appealing the court's decision and pointed out the problems of their decis
 
 -----
 
+Two courts both failed to distinguish the difference between two kind of decisions. One is the decision of my grade, which happened after my thesis defense when they tell me the grade. Another is the decision of rejecting my appeal. I carefully selected my words used in my case because I know the difference. However they failed to notice my carefulness and was thinking that I want them to change my grade. I was talking about the grade decsion to my university and I was talking about the reject of appeal decision to the court. The right of my university to decide my grade is protected by law, but the rejection of appeal may not
+
+-----
+
 
 Of course, without reading the swiss law again, I can point out some problems, and I am sure that my points will be accepted by most persion. However, I want my points used to against this authority of Swiss law to be precise and could be supported by Swiss law itself. Thus, to finish this article, I will need to read some Swiss law, and it will take some time. Do not take the draft section seriously because they are not formally included in this article.
 
