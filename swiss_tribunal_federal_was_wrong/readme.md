@@ -8,6 +8,10 @@ The sad truth is that they are indeed unchallengeable inside of Switzerland lega
  * My appeal sent to Federal Tribunal: [against_court_response_1 - public.pdf](./against_court_response_1%20-%20public.pdf)
  * Federal Tribunal's final decision: http://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F16-10-2024-2C_479-2024&lang=de&type=show_document
 
+# Untitiled
+
+I believe my case will not just become a shame of my university USI / Università della Svizzera italiana, it will also become a shame of Switzerland legal system and a shame of Switzerland education system. 
+
 # Draft
 
 At the first glance, there are two problems.
@@ -25,7 +29,7 @@ I was appealing the court's decision and pointed out the problems of their decis
 
 -----
 
-Two courts both failed to distinguish the difference between two kind of decisions. One is the decision of my grade, which happened after my thesis defense when they tell me the grade. Another is the decision of rejecting my appeal. I carefully selected my words used in my case because I know the difference. However they failed to notice my carefulness and was thinking that I want them to change my grade. I was talking about the grade decsion to my university and I was talking about the reject of appeal decision to the court. The right of my university to decide my grade is protected by law, but the rejection of appeal may not
+Two courts both failed to distinguish the difference between two kind of decisions. One is the decision of my grade, which happened after my thesis defense when they tell me the grade. Another is the decision of rejecting my appeal. I carefully selected my words used in my case because I know the difference. However they failed to notice my carefulness and was thinking that I want them to change my grade. I was talking about the grade decsion to my university and I was talking about the rejection of appeal to the court. The right of my university to decide my grade is protected by law, but the rejection of appeal may not. This actually unlikely to happen to legal professionals, I assume they are deliberately confusing the two different rights. 
 
 -----
 
