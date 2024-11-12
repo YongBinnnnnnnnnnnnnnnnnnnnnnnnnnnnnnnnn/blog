@@ -3,14 +3,16 @@ Swiss federal tribunal was wrong and I do not even need to read the Swiss law ag
 
 The sad truth is that they are indeed unchallengeable inside of Switzerland legal system. However, as a Chinese old saying goes, "公道自在人心", "justice lies in the hearts of men and women", I would like to chellange them in the public place named internet.
 
-# Context
-
  * My appeal sent to Federal Tribunal: [against_court_response_1 - public.pdf](./against_court_response_1%20-%20public.pdf)
  * Federal Tribunal's final decision: http://relevancy.bger.ch/php/aza/http/index.php?highlight_docid=aza%3A%2F%2F16-10-2024-2C_479-2024&lang=de&type=show_document
 
 # Untitiled
 
-I believe my case will not just become a shame of my university USI / Università della Svizzera italiana, it will also become a shame of Switzerland legal system and a shame of Switzerland education system. 
+I believe my case will not just become a shame of my university USI / Università della Svizzera italiana / 瑞士卢加诺大学, it will also become a shame of Switzerland legal system and a shame of Switzerland education system. 
+
+# Call for help
+
+I call for help from legal professionals. Right now, the only place may have a chance to correct their mistakes is the European Court of Human Rights. I can point out the mistakes of the Swiss courts and the mistakes of my university but I am not familiar with the laws related to ECHR. If you are willing to help, please create an issue of my github projects or contact binaryy@163.com. The email address is not that safe.
 
 # Draft
 
@@ -29,7 +31,7 @@ I was appealing the court's decision and pointed out the problems of their decis
 
 -----
 
-Two courts both failed to distinguish the difference between two kind of decisions. One is the decision of my grade, which happened after my thesis defense when they tell me the grade. Another is the decision of rejecting my appeal. I carefully selected my words used in my case because I know the difference. However they failed to notice my carefulness and was thinking that I want them to change my grade. I was talking about the grade decsion to my university and I was talking about the rejection of appeal to the court. The right of my university to decide my grade is protected by law, but the rejection of appeal may not. This actually unlikely to happen to legal professionals, I assume they are deliberately confusing the two different rights and the reason could be related to [斗贼笔记](../斗贼笔记/). 
+Two courts both failed to distinguish the difference between two kind of decisions. One is the decision of my grade, which happened after my thesis defense when they tell me the grade. Another is the decision of rejecting my appeal. I carefully selected my words used in my case because I know the difference. However they failed to notice my carefulness and was thinking that I wanted them to change my grade. I was talking about the grade decsion to my university and I was talking about the rejection of appeal to the court. The right of my university to decide my grade is protected by law, but the rejection of appeal may not. This actually unlikely to happen to legal professionals, I assume they are deliberately confusing the two different rights and the reason could be related to [斗贼笔记](../斗贼笔记/). 
 
 -----
 
