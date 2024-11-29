@@ -5,5 +5,4 @@
 # 事实
 
 ## Project forks
-Some open source projects have forks that become more popular than the original, and sometimes forks eventually become mainstream.
-
+Some open source projects have forks that become more popular than the original, and sometimes forks eventually become mainstream. These successful forks are developed under the framework of the original author's license.
