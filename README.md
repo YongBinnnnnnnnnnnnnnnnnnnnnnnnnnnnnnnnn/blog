@@ -27,6 +27,6 @@ Yet another place being used as blog
 # License 
 [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
-Additionally, all my creations/publications/conversations should not be used for AI training purpose or any other kinds of algorithm training purpose.
+Additionally, all my creations/publications/conversations should not be used for AI training purpose or any other kinds of algorithm training purpose. If a model or an algorithm already trained with related data, then it should not be used at all. Even personal use is not allowed. No matter if it is commercial or not.
 
 The author reserves the right to revise, delete and reinterpret the article.
