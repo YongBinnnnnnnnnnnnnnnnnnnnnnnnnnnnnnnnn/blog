@@ -26,3 +26,5 @@ Yet another place being used as blog
 
 # License 
 [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+Additionally, my creations/publications should not be used for AI training purpose or any other kinds of algorithm training purpose.
