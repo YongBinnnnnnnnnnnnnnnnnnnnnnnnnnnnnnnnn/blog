@@ -43,3 +43,14 @@ But what if there is no license at all? Not decided.
 
 ## 时间旅行的犯罪悖论
 类似[祖父悖论](https://zh.wikipedia.org/zh-hans/祖父悖論)，只不过把其中的祖父改成了犯罪者，那么被阻止的人算是罪犯？还是算是无辜者？
+
+## 摘抄 福尔摩斯
+When you have eliminated the impossible, whatever remains, however improbable, must be the truth.
+
+当你排除一切不可能的，剩下的无论是什么——无论多么荒谬——那一定是真相。
+
+It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.
+
+在没有得到事实之前妄下猜测是个很可怕的错误。你会不自觉地扭曲事实去套自己的猜测，而不是根据事实来推导结论。
+
+* 以上两条复制于[此处](https://language.chinadaily.com.cn/2016-01/11/content_23027520_2.htm)
