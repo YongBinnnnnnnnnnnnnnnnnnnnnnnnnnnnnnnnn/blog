@@ -33,3 +33,6 @@ The author reserves the right to revise, delete and reinterpret the contents.
 
 # Announcements
  * All my creations/publications/conversations/assignments/emails/etc. should not be used for AI training purpose or any other kinds of algorithm training purpose. If a model or an algorithm already trained with related data, then it should not be used at all. Even personal use is not allowed. No matter if it is commercial or not.
+
+# Author
+Bin Yong
