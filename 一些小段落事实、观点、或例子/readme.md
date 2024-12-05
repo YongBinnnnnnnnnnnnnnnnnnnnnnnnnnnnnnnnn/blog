@@ -11,6 +11,7 @@
 
 1. 觉得有趣或好笑不一定等于想实践，想法不一定等于决定，决定做不一定等于愿意做，决定做不一定等于决定执行，有兴趣的事不一定等于愿望，邪不一定等于恶。
 2. 当我在网站上同意Cookie策略时，没有同意将条款应用到曲奇饼干。同时在饼干语境中Cracker和Cookie也不是一回事，放在曲奇饼干盒子里的东西也不一定就是Cookie。
+3. Pay by card这句话翻译过来的意思是刷卡支付，不是把卡给出去的意思。
 
 ## Project forks
 Some open source projects have forks that become more popular than the original, and sometimes forks eventually become mainstream. These successful forks are developed under the framework of the original author's license.
